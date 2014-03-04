@@ -9,6 +9,7 @@
 
 #import "MyScene.h"
 
+
 @interface MyScene()
 @property SKSpriteNode* mySquare1;
 @property SKSpriteNode* mySquare2;
